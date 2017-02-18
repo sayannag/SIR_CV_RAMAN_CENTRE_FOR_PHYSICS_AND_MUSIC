@@ -648,9 +648,9 @@ text-shadow: 1px 1px 1px rgba(151,24,64,0.2);
 	top: 57%;
 	-webkit-backface-visibility: hidden;
 }
-/*
 #social{
 padding-left:100px;
+border-radius: 100%;
 }
 #social a img{
 display:inline-block;
@@ -661,16 +661,4 @@ padding:50px;
 border-radius: 100%;
 top: 60%;
 border:3px solid white;
-}
-*/
-.circularsquare {
-display:inline-block;
-width:40px;
-height:40px;
-margin: 0 auto;
-padding:50px;
-border-radius: 100%;
-top: 60%;
-border:3px solid white;
-padding-left:100px;
 }
